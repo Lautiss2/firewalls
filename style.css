@@ -76,7 +76,7 @@ strong {
 /* --- Estilos de Media (Imagen y Video) --- */
 img,
 video {
-    width: 500px; /* Clave para la responsividad */
+    width: 100%; /* Clave para la responsividad */
     height: auto; /* Mantiene la proporción */
     display: block;
     margin: 20px 0;
@@ -120,4 +120,5 @@ footer {
     main {
         padding: 20px;
     }
+
 }
